@@ -1,3 +1,4 @@
 {
-    "hit-manager": ["HitManager", "hitwindow", "ソフトウェア管理", "0.0.0", None]
+    "hit-manager": ["HitManager", "hitwindow", "ソフトウェア管理", "0.0.0", null],
+    "visual-studio-code": ["Visual Studio Code", "microsoft-corporation", "Microsoftの統合開発環境(IDE)", null, "https://code.visualstudio.com/"]
 }
